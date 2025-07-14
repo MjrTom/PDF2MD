@@ -15,12 +15,17 @@
     <PackageReference Include="Ephemerality.Unpack" Version="0.0.5" />
     <PackageReference Include="JTForks.MiscUtil" Version="1.285.0" />
     <PackageReference Include="Markdig" Version="0.41.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="nlua" Version="1.7.5" />
     <PackageReference Include="PdfPig" Version="0.1.10" />
     <PackageReference Include="Spectre.Console" Version="0.50.0" />
     <PackageReference Include="System.CommandLine" Version="2.0.0-beta5.25306.1" />
     <PackageReference Include="System.CommandLine.NamingConventionBinder" Version="2.0.0-beta5.25306.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+    <PackageReference Include="System.DirectoryServices.Protocols" Version="5.0.1" />
+    <PackageReference Include="System.Drawing.Common" Version="5.0.3" />
     <PackageReference Include="System.Linq.Async" Version="6.0.3" />
+    <PackageReference Include="System.Security.Cryptography.Xml" Version="6.0.1" />
     <PackageReference Include="VersOne.Epub" Version="3.3.4" />
 
     <!-- Workaround for publish because of JTForks.MiscUtil -->
