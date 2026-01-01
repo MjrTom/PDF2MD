@@ -24,7 +24,7 @@
     <PackageReference Include="System.DirectoryServices.Protocols" Version="10.0.0" />
     <PackageReference Include="System.Drawing.Common" Version="9.0.10" />
     <PackageReference Include="System.Linq.Async" Version="7.0.0" />
-    <PackageReference Include="System.Security.Cryptography.Xml" Version="9.0.10" />
+    <PackageReference Include="System.Security.Cryptography.Xml" Version="10.0.1" />
     <PackageReference Include="VersOne.Epub" Version="3.3.4" />
 
     <!-- Workaround for publish because of JTForks.MiscUtil -->
