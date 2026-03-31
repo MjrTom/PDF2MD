@@ -15,8 +15,10 @@
     <PackageReference Include="Ephemerality.Unpack" />
     <PackageReference Include="JTForks.MiscUtil" />
     <PackageReference Include="Markdig" />
+  <PackageReference Include="Newtonsoft.Json" />
     <PackageReference Include="nlua" />
     <PackageReference Include="PdfPig" />
+  <PackageReference Include="SixLabors.ImageSharp" />
     <PackageReference Include="Spectre.Console" />
     <PackageReference Include="System.CommandLine" />
     <PackageReference Include="System.CommandLine.NamingConventionBinder" />
